@@ -1,0 +1,11 @@
+{
+  "name": "heartrate-calculator",
+  "version": "1.0.0",
+  "description": "Calculate heart rate by heart rate statistics data.",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "author": "hari",
+  "license": "ISC"
+}
